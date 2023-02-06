@@ -1,0 +1,15 @@
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\bin\Debug\net7.0\Ioc.exe
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\bin\Debug\net7.0\Ioc.deps.json
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\bin\Debug\net7.0\Ioc.runtimeconfig.json
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\bin\Debug\net7.0\Ioc.dll
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\bin\Debug\net7.0\Ioc.pdb
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\Ioc.csproj.AssemblyReference.cache
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\Ioc.AssemblyInfoInputs.cache
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\Ioc.AssemblyInfo.cs
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\Ioc.dll
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\refint\Ioc.dll
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\Ioc.pdb
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\Ioc.genruntimeconfig.cache
+C:\Users\Mohammed\Desktop\learning C# with nick\Build Ioc\Ioc\obj\Debug\net7.0\ref\Ioc.dll
